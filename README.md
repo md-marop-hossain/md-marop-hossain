@@ -1,5 +1,50 @@
 ### Hi there 👋
 
+<p align="center">
+ 
+</p align="center">
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
+
+<p align="center">
+
+ <img src="https://badges.pufler.dev/visits/md-marop-hossain/md-marop-hossain"/> 
+ <img src="https://badges.pufler.dev/repos/md-marop-hossain"/>
+ <img src="https://badges.pufler.dev/commits/monthly/md-marop-hossain" />
+
+</p>
+
+<!-- <p align="center">
+  I'm a 2rd year student pursuing Bs'c in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
+</p>  
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 **md-marop-hossain/md-marop-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +59,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- ![](https://komarev.com/ghpvc/?username=md-marop-hossain&style=plastic)
+<!--  ![](https://komarev.com/ghpvc/?username=md-marop-hossain&style=plastic) -->
 
 
 ## My Skill Set  
-<table>
+<!-- <table>
   <tr><td valign="top" width="50%">
-  <h3> Web-development </h3>
+  <h3> Web-development </h3> -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -34,20 +79,22 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
+<img style="margin: 10px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind" height="45" />  
+
+<!-- </div>
 
 </td><td valign="top" width="50%">
 
   <h3>Programming language </h3>
   
-<div align="center">  
+<div align="center">   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
-
-</td></tr></table>  
+<!-- 
+</td></tr></table>   -->
 
 <br/>  
 
@@ -83,7 +130,6 @@ Here are some ideas to get you started:
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## Github trophy -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=md-marop-hossain)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=md-marop-hossain&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## GitHub streak
