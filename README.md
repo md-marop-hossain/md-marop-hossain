@@ -65,7 +65,7 @@ Talk to me about
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 Libraries & Framework
+### 🔵 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -79,7 +79,7 @@ Talk to me about
 
 <!-- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) -->
-### 💻 Databases & Cloud Hosting
+### 🟠 Databases & Cloud Hosting
 
 <p align="left">
     <a  href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
@@ -100,7 +100,7 @@ Talk to me about
 
 
 
-### 💻 Software & Tools
+### 🖥️💻 Software & Tools
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
@@ -125,7 +125,7 @@ Talk to me about
 
 
 
-## 🔗 Connect with me  
+## 📎📎 Connect with me  
 <div align="center">
 <a href="https://twitter.com/marop_hossain" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
