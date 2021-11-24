@@ -114,8 +114,12 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express.js-e8eaed?style=for-the-badge&logo=express&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f72bc?style=for-the-badge&logo=typescript&logoColor=bdd0e4)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-f2f2f2?style=for-the-badge&logo=tailwindcss&logoColor=06adc9)
+
 <!-- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) -->
 ### 💻 Databases & Cloud Hosting
@@ -125,7 +129,6 @@ Here are some ideas to get you started:
 ![Github Pages](https://img.shields.io/badge/GithubPages-2677c7?style=for-the-badge&logo=githubpages&logoColor=white) -->
 
 <p align="left">
-  &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sql.org/"><img alt="SQL" src ="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
@@ -138,12 +141,34 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
-
   <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-09506a?style=flate&logo=netlify&logoColor=5ceade"></a>
  &emsp; 
 </p>
-<br/>  
 
+### 💻 Software & Tools
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+<!--     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  &emsp; -->
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+&emsp;
+<!--     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+  &emsp; -->
+<!--     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp; -->
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+<!--     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+ &emsp;  -->
+  <a href="#"><img alt="sublime text" src="https://img.shields.io/badge/Sublime%20text-484848?style=flate&logo=sublimetext&logoColor=f28f02"></a>
+  &emsp;
+  
+</p>
+
+<br/>
 
 
 
