@@ -102,9 +102,9 @@
 <a href="https://www.facebook.com/marophossain21" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/md-marop-hossain" target="_blank">
+<!-- <a href="https://github.com/md-marop-hossain" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://linkedin.com/in/marop-hossain" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -114,6 +114,15 @@
  <a href="https://www.hackerrank.com/marop_hossain" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-%97d3ad.svg?&style=for-the-badge&logo=hackerrank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>  
+ <a href="">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>
+	<a href="https://dev.to/mdmarophossain">
+		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+	</a>
+ <a href="mailto:marop.hossain21@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 </div>  
 <br/>  
 
