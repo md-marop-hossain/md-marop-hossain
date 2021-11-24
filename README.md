@@ -78,7 +78,7 @@ Talk to me about
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) -->
 ### 💻 Databases & Cloud Hosting
 
-<p align="left">
+<p align="center">
     <a  href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sql.org/"><img alt="SQL" src ="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
