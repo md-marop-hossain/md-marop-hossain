@@ -24,15 +24,15 @@
  [![Years Badge](https://badges.pufler.dev/years/md-marop-hossain](https://badges.pufler.dev) -->
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/md-marop-hossain/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<!-- <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/md-marop-hossain/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/md-marop-hossain/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/md-marop-hossain/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/md-marop-hossain/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/md-marop-hossain/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/md-marop-hossain/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
+ -->
 </p>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-marop-hossain&theme=nord) -->
@@ -81,7 +81,7 @@ Talk to me about
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) -->
 ### 💻 Databases & Cloud Hosting
 
-<p align="center">
+<p align="left">
     <a  href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sql.org/"><img alt="SQL" src ="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
