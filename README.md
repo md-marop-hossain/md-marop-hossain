@@ -1,4 +1,7 @@
 <h1 align="center"> Hi , I'm Marop Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+![](https://github.com/md-marop-hossain/md-marop-hossain/blob/main/header_.png)
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;competitive+programmer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -9,7 +12,7 @@
 
 
 
-![](https://github.com/md-marop-hossain/md-marop-hossain/blob/main/header_.png)
+
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/md-marop-hossain/md-marop-hossain"/> 
