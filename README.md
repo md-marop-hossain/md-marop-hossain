@@ -15,7 +15,33 @@
  <img src="https://badges.pufler.dev/visits/md-marop-hossain/md-marop-hossain"/> 
  <img src="https://badges.pufler.dev/repos/md-marop-hossain"/>
  <img src="https://badges.pufler.dev/commits/monthly/md-marop-hossain" />
+ <img src="https://badges.pufler.dev/years/md-marop-hossain" />
+<!--  <img src="https://badges.pufler.dev/gists/md-marop-hossain" /> -->
+<!--  <img src="https://badges.pufler.dev/updated/md-marop-hossain/git-badges" />
+ [![Years Badge](https://badges.pufler.dev/years/md-marop-hossain](https://badges.pufler.dev) -->
+</div>
+
+<div align="center">
+
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/md-marop-hossain/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/md-marop-hossain/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/md-marop-hossain/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/md-marop-hossain/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/md-marop-hossain/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/md-marop-hossain/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/md-marop-hossain/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 </p>
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-marop-hossain&theme=nord) -->
+
+
+<!-- ## ⚡ Technologies
+Talk to me about
+- Front-end development using HTML, CSS, JavaScript (react.js)
+- Backend development using MongoDB, Node.js, Express.js
+- Creating big and small projects using Computer Vision (Java)
+- Making for Relational Database Management Systems(SQL)
+- Solving Data structure and algorithm questions in Java and C++ -->
 
 <!-- <p align="center">
   I'm a 2rd year student pursuing Bs'c in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
@@ -137,8 +163,6 @@
 <div align="center">
  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord" />
  </div>
-
-
 
 
 
