@@ -206,22 +206,44 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## 📈 Stats & streak
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&hide_border=true&theme=nord" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-marop-hossain&hide_border=true&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 
 
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&theme=nord) 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&theme=nord)  -->
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## Github trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=md-marop-hossain&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## GitHub streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md-marop-hossain&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- ## GitHub streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md-marop-hossain&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
 ## GitHub contribution graph
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=md-marop-hossain&theme=nord">
 </p> 
+
+<p align="center">
+   <img src="https://github.com/md-marop-hossain/md-marop-hossain/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
