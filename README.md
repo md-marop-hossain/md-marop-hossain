@@ -51,7 +51,7 @@
 ### 💻 Databases & Cloud Hosting
 
 <p align="left">
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    <a  href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sql.org/"><img alt="SQL" src ="https://img.shields.io/badge/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
   &emsp;
@@ -61,7 +61,7 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+    <a  href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
   <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-09506a?style=flate&logo=netlify&logoColor=5ceade"></a>
  &emsp; 
@@ -110,6 +110,9 @@
 </a>
 <a href="https://stackoverflow.com/users/15456282" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+ <a href="https://www.hackerrank.com/marop_hossain" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%97d3ad.svg?&style=for-the-badge&logo=hackerrank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>  
 </div>  
 <br/>  
