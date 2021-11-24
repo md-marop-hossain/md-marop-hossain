@@ -12,16 +12,9 @@
 ![](https://github.com/md-marop-hossain/md-marop-hossain/blob/main/header_.png)
 
 <p align="center">
- 
-</p align="center">
-<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
-
-<p align="center">
-
  <img src="https://badges.pufler.dev/visits/md-marop-hossain/md-marop-hossain"/> 
  <img src="https://badges.pufler.dev/repos/md-marop-hossain"/>
  <img src="https://badges.pufler.dev/commits/monthly/md-marop-hossain" />
-
 </p>
 
 <!-- <p align="center">
@@ -31,73 +24,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-**md-marop-hossain/md-marop-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-<!--  ![](https://komarev.com/ghpvc/?username=md-marop-hossain&style=plastic) -->
-
-
-## My Skill Set  
-
-<!-- <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind" height="45" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-
- -->
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -123,10 +49,6 @@ Here are some ideas to get you started:
 <!-- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) -->
 ### 💻 Databases & Cloud Hosting
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/Mongodb-66cc00?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2677c7?style=for-the-badge&logo=sql&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GithubPages-2677c7?style=for-the-badge&logo=githubpages&logoColor=white) -->
 
 <p align="left">
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
@@ -144,6 +66,8 @@ Here are some ideas to get you started:
   <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-09506a?style=flate&logo=netlify&logoColor=5ceade"></a>
  &emsp; 
 </p>
+
+
 
 ### 💻 Software & Tools
 <p>
@@ -165,22 +89,8 @@ Here are some ideas to get you started:
  &emsp;  -->
   <a href="#"><img alt="sublime text" src="https://img.shields.io/badge/Sublime%20text-484848?style=flate&logo=sublimetext&logoColor=f28f02"></a>
   &emsp;
-  
 </p>
-
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -202,18 +112,17 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
-## 📈 Stats & streak
 
+## 📈 Stats & streak & Most used languages
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&hide_border=true&theme=nord" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-marop-hossain&hide_border=true&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-
+<div align="center">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord" />
+ </div>
 
 
 
@@ -230,8 +139,8 @@ Here are some ideas to get you started:
 
 <!-- ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&theme=nord)  -->
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Most used languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-marop-hossain&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ## Github trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=md-marop-hossain&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -239,11 +148,12 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md-marop-hossain&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
-## GitHub contribution graph
+<!-- ## GitHub contribution graph
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=md-marop-hossain&theme=nord">
 </p> 
-
-<p align="center">
+ -->
+<!-- <p align="center">
    <img src="https://github.com/md-marop-hossain/md-marop-hossain/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/md-marop-hossain/md-marop-hossain/output/github-contribution-grid-snake.svg) -->
