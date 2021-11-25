@@ -157,8 +157,10 @@ Talk to me about
 </div>  
 <br/>  
 
+## 📈 Activity Graph
+![Marop's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=md-marop-hossain&hide_border=true&theme=nord)
 
-## 📈 Stats & streak & Most used languages
+## 📊 Stats & streak & Most used languages
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-marop-hossain&show_icons=true&hide_border=true&theme=nord" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-marop-hossain&hide_border=true&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
