@@ -6,7 +6,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;competitive+programmer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Student at North South University (NSU) pursuing BSc in CSE. I like to Coding, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<!-- <h4 align="center">I am a Student at North South University (NSU) pursuing BSc in CSE. I like to Coding, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4> -->
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=md-marop-hossain&label=Marop's%20Profile%20Views%20&color=173250&style=plastic" alt="candida18" /> </p>
 
